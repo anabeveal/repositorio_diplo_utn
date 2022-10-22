@@ -1,0 +1,38 @@
+h1{
+    color: rgb(162, 158, 240);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+}
+h2{
+    color: rgb(162, 158, 240);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+}
+h3{
+    color: rgb(151, 147, 233);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    background-color: rgb(219, 236, 157);
+}
+#caja1{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(247, 139, 241);
+    padding: 15px;
+    box-sizing: border-box;
+}
+#caja2{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(247, 139, 241);
+    padding: 15px;
+    box-sizing: border-box;
+}
+a:hover{
+    color: rgb(255, 25, 224);
+}
+.destacados{
+    color: orange;
+}
