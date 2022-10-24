@@ -1,0 +1,53 @@
+/*font-family: 'Kite One', sans-serif;*/
+h1{
+    color: rgb(162, 158, 240);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+}
+h2{
+    color: rgb(162, 158, 240);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+}
+h3{
+    color: rgb(151, 147, 233);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    background-color: rgb(219, 236, 157);
+}
+#caja1{
+    width: 300px;
+    height: 150px;
+    border-radius: 0 20px;
+    border: 2px solid rgb(255, 25, 224);
+    box-shadow: -3px 9px 101px -8px rgba(242,61,135,0.75);
+    background: rgb(211,251,149);
+    background: radial-gradient(circle, rgba(211,251,149,1) 0%, rgba(141,157,238,1) 100%);;
+    padding: 15px;
+    box-sizing: border-box;
+}
+#caja2{
+    width: 300px;
+    height: 150px;
+    border-radius: 0 20px;
+    border: 2px solid rgb(255, 25, 224);
+    box-shadow: -3px 9px 101px -8px rgba(242,61,135,0.75);
+    background: rgb(211,251,149);
+    background: radial-gradient(circle, rgba(211,251,149,1) 0%, rgba(141,157,238,1) 100%);
+    padding: 15px;
+    box-sizing: border-box;
+}
+#caja3{
+    column-count: 3; /*cantidad columnas*/
+    column-gap: 30px; /*espacio entre columnas*/
+    column-rule: 2px solid rgb(255, 25, 224); /*linea entre columnas*/
+    font-family: 'Kite One', sans-serif;
+}
+a:hover{
+    color: rgb(255, 25, 224);
+}
+.destacados{
+    color: orange; 
+}
